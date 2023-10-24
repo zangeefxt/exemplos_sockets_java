@@ -12,7 +12,7 @@ public class ExemploServidor {
 
                 servidorTCP.escuta();
                 servidorTCP.processa();
-                servidorTCP.fecha();
+                //servidorTCP.fecha();
             }
 
 
